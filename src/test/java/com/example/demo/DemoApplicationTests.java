@@ -8,9 +8,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class DemoApplicationTests {
 
-	@Test
-	void contextLoads() {
-		String result = "duke";
-    	assertEquals("duke", result);
-	}
+	// @Test
+	// void contextLoads() {
+	// 	String result = "duke";
+    // 	assertEquals("duke", result);
+	// }
 }
